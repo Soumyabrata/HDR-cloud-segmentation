@@ -1,0 +1,16 @@
+Please keep all the "Set" folders of the HDR dataset in this folder.
+
+- SETA
+--- *.jpg
+--- *.jpg
+--- *.jpg
+--- cropped
+------*.jpg
+------*.jpg
+------*.jpg
+--- GT
+------*.png
+--- tonemapped
+------*.jpg
+
+Similarly for the other sets.
