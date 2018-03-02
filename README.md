@@ -20,6 +20,7 @@ We release the associated dataset of this manuscript to the research community. 
 * `maskSaturatedLDR.m` Estimates the mask of saturated map for an LDR image. 
 * `MCE_func.m` Internal function to compute Li et al. approach.
 * `RGBPlane.m` Finds the R- G- and B- plane of an image.
+* `showasImage.m` Normalizes a matrix into the range [0,255].
 
 
 The codes related to HDR imaging are contained in the folder `./HDRimaging`. These codes are adapted from:
