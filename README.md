@@ -9,7 +9,9 @@ Please cite the above paper if you intend to use whole/part of the code. This co
 The codes are written in MATLAB.
 
 ### Dataset
-We release the associated dataset of this manuscript to the research community. This will be helpful for public benchmarking and subsequent research. Please visit this [link](http://vintage.winklerbros.net/index.html) for more details. The dataset should be copied in the folder `./HDRSEG`.
+The SHWIMSEG: Singapore HDR Whole Sky IMaging SEGmentation Database, associated with this manuscript can be accessed from [this](http://vintage.winklerbros.net/shwimseg.html) link. This will be helpful for public benchmarking and subsequent research. 
+
+The dataset should be copied in the folder `./HDRSEG`.
 
 ### Core functionality
 * `BRImage_func.m` Calculates a ratio image from an RGB sky/cloud image.
